@@ -9,11 +9,13 @@ Knowledge and Algorithm notebook of computer science
 
 2. Computer Network
 
-3. Programming Language
+3. Database System
 
-4. Machine Learning
+4. Programming Language
 
-5. System Design
+5. Machine Learning
+
+6. System Design
 
 ## Programming
 
